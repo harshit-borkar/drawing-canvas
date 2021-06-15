@@ -14,8 +14,6 @@ body{
 }
 
 canvas {
-    width: 100%;
-    height: auto;
     border: 2px solid #B0C4DE;
     background-color: white;
 }
@@ -25,7 +23,7 @@ canvas {
     border: 1px solid #191970;
     display: flex;
     padding: 10px;
-    width: 99%;
+    width: 1250;
 }
 
 .toolbox > * {
