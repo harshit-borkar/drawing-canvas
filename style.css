@@ -23,7 +23,7 @@ canvas {
     border: 1px solid #191970;
     display: flex;
     padding: 10px;
-    width: 1250;
+    width: 1250px;
 }
 
 .toolbox > * {
